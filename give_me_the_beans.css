@@ -1,0 +1,29 @@
+h1{
+   font-family:georgia;
+   font-weight:normal;
+   font-size:60px;
+    color: #E06052;
+   line-height:60px;
+    text-align: center;
+   }
+h2{
+   font-family:georgia;
+   font-weight:normal;
+   font-size:45px;
+    color: #BF404D;
+   line-height:45px;
+    text-align: center;
+   }
+h3{
+   font-family:georgia;
+   font-weight:normal;
+      font-style: italic;
+    color: #821722;
+   font-size:45px;
+   line-height:45px;
+    text-align: center;
+   }
+
+body{
+background-color: #0AC28B;
+}
